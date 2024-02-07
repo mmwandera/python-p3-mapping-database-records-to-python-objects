@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 from song import Song, CONN, CURSOR
 
 def reset_database():
